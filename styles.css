@@ -1,0 +1,81 @@
+h1 {
+  display: block;
+  color: white;
+  background-color: black;
+  margin: auto;
+  padding: 20px;
+  border: solid yellow;
+  width: 200px;
+  font-style: italic;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    border: solid red;
+    padding: 10px;
+    background-color: black;
+}
+
+button {
+    background-color: violet;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    border: solid black;
+    margin-bottom: 10px;
+    width: auto;
+}
+
+
+h2 {
+    display: block;
+    color: white;
+    background-color: black;
+    margin: auto;
+    padding: 20px;
+    border: solid yellow;
+    width: 200px;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+p {
+    display: block;
+    background-color: yellow;
+    border: solid black;
+    padding: 5px;
+}
+
+h3 {
+    display: block;
+    color: white;
+    background-color: black;
+    margin: auto;
+    padding: 20px;
+    border: solid yellow;
+    width: 200px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.ingredient-list {
+    display: block;
+    margin: auto;
+    width: 300px;
+    background-color: lime;
+    font-weight: bold;
+}
+
+ol {
+    display: block;
+    margin: auto;
+    width: 100%;
+    font-style: italic;
+    background-color: aqua;
+}
+
+body {
+    background-image: url(./Cutlery\ Pattern\ in\ Black\ and\ White\ Stock\ Vector\ -\ Illustration\ of\ celebration\,\ gift_\ 22238099.jpeg)
+}
