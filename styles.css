@@ -40,6 +40,7 @@ h2 {
     width: 200px;
     font-style: italic;
     margin-top: 10px;
+    text-align: center;
 }
 
 p {
@@ -59,7 +60,8 @@ h3 {
     width: 200px;
     font-style: italic;
     margin-bottom: 10px;
-    margin-top: 10px
+    margin-top: 10px;
+    text-align: center;
 }
 
 .ingredient-list {
